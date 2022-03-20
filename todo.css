@@ -1,0 +1,43 @@
+body{
+    width: 40%;
+    margin:auto;
+    background-color: rgb(44, 42, 42);
+}
+h1{
+    align-items: center;
+    width: 200px;
+    margin: 100px auto 0;
+}
+.container{
+    width: 400px;
+    background-color: rgb(245, 245, 30);
+}
+#inputfield{
+    border: 1px solid black;
+    font-size: 25px;
+    vertical-align: middle;
+    height: 50px;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+#todocontainer{
+    margin-top: 25px;
+    
+}
+#addtodo{
+    vertical-align: middle;
+    width:30px;
+    height:30px ;
+    margin-left: 12px;
+    font-size: 20px;
+}
+button:hover{
+     transform: scale(2,2);
+}
+.paragraph-styling{
+    margin: 5px auto;
+    cursor: pointer;
+    font-size: 20px;
+    width: 40%;
+}
